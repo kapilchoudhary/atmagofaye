@@ -6,5 +6,5 @@
 
 production:
   server: "http://MY_APP.herokuapp.com/faye"
-  secret_token: "MY_KEY"
+  secret_token: "9ef71bc1d80066d2912787d35696d9d3aeb3145bc417f897a8ea21cde94bba9a"
   signature_expiration: 86400 # one day
